@@ -10,3 +10,6 @@ Hérna er ég með nýja útgáfu á leiknum Jetpack Joyride. Það er bara einn
 
 ### Feedback
 Fannst þetta svona ágætlega gaman, sérstaklega þegar að eh fór að virka. ég rate-a þetta verkefni 9,2.
+
+### Leikurinn
+Hérna er linkur á [Leikinn](https://einsiful.github.io/JavaScript_verk4/)
